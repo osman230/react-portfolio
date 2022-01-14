@@ -4,9 +4,9 @@ Welcome to my portfolio!
 
 ## Software Used
 
-React
-React-typist
-React-Icons
+- React
+- React-typist
+- React-Icons
 
 ## Portfolio
 https://osman230.github.io/react-portfolio/
