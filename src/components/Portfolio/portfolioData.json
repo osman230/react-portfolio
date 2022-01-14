@@ -1,0 +1,77 @@
+{    "portfolio":{
+      "projects": [
+        {
+          "id": 1,
+          "title":"Password Generator",
+          "desc":"A generator that give you a random password based on criteria that you confirmed.",
+          "github": "https://github.com/osman230/Password-Generator-Assignment"
+        },
+        {
+          "id": 2,
+          "title":"Code Quiz",
+          "desc":"A quiz that helps you practice Javascript fundamentals.",
+          "github": "https://github.com/osman230/Code-Quiz"
+        },
+        {
+          "id": 3,
+          "title":"Professional ReadME Generator",
+          "desc":"A README Generator using Node.js",
+          "github": "https://github.com/osman230/Professional-Readme-Generator"
+        },
+        {
+          "id": 4,
+          "title":"Ecommerce Backend",
+          "desc":"A back-end ecommerce application for a retail company.",
+          "github": "https://github.com/osman230/ecommerce"
+        },
+        {
+          "id": 5,
+          "title":"Employee Tracker",
+          "desc":"A directory created to keep track of your employees.",
+          "github": "https://github.com/osman230/employee-tracker"
+        },
+        {
+          "id": 6,
+          "title":"Social Network API",
+          "desc":"An API for a social network web application where users can share their thoughts, react to friends thoughts, and create a friend list.",
+          "github": "https://github.com/osman230/social-network-API"
+        },
+        {
+          "id": 7,
+          "title":"Work Day Scheduler",
+          "desc":"A scheduling application to help organize your day.",
+          "github": "https://github.com/osman230/work-day-scheduler"
+        },
+        {
+          "id": 8,
+          "title":"The Tech Blog",
+          "desc":"A blog where you can sign up, post, and comment on discussions about all tech related things.",
+          "github": "https://github.com/osman230/tech-blog"
+        },
+        {
+          "id": 9,
+          "title":"Note Taker",
+          "desc":"A note taking tool that uses: HTML, CSS, JavaScript, Node.js, and Express.js. ",
+          "github": "https://github.com/osman230/note-taker"
+        },
+        {
+          "id": 10,
+          "title":"Budget Tracker",
+          "desc":"A budget tracker that allows the user to add expenses and deposits to their budget with or without a connection.",
+          "github": "https://github.com/osman230/budget-tracker"
+        },
+        {
+          "id": 11,
+          "title":"Kanye Guess",
+          "desc":"Kanye Guess is a quiz game in which users are given a famous quote and must decide within ten seconds if Kanye West said it or someone else. Players can add their initials at the end to display in the highscore rankings Hall Of Fame.",
+          "github": "https://github.com/osman230/Quote-Battle"
+        },
+        {
+          "id": 12,
+          "title":"Rate My Dog",
+          "desc":"Rate My Dog is a full stack application that allows authorized users to log-in/sign-up, rate and comment on their favorite ugly dogs.",
+          "github": "https://github.com/osman230/the-dog-blog"
+        }
+      ]
+    }
+  }
