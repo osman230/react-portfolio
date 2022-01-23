@@ -28,7 +28,7 @@ function About() {
     <div className="resume-pdf">
     <p>
     <button> 
-    <a href="https://www.dropbox.com/s/uutlkp9k1mijkcq/Resume.pdf?dl=0">DOWNLOAD MY RESUME</a>
+    <a href="https://www.dropbox.com/s/ttqgibycwe358j4/Resume%20%281%29.pdf?dl=0">DOWNLOAD MY RESUME</a>
     </button>         
     </p>
     </div>
