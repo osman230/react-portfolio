@@ -72,6 +72,13 @@
           "desc":"Rate My Dog is a full stack application that allows authorized users to log-in/sign-up, rate and comment on their favorite ugly dogs.",
           "github": "https://github.com/osman230/the-dog-blog"
         }
+        ,
+        {
+          "id": 13,
+          "title":"TravelLog",
+          "desc":"An full stack MERN travel log application where users can share their travels, react to friends' travels, and create a friends list. Using GraphQL API with Node.js, NoSQL database (MongoDB), and the Mongoose ODM for structure.",
+          "github": "https://github.com/osman230/TravelLog"
+        }
       ]
     }
   }
