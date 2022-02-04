@@ -71,8 +71,7 @@
           "title":"Rate My Dog",
           "desc":"Rate My Dog is a full stack application that allows authorized users to log-in/sign-up, rate and comment on their favorite ugly dogs.",
           "github": "https://github.com/osman230/the-dog-blog"
-        }
-        ,
+        },
         {
           "id": 13,
           "title":"TravelLog",
